@@ -29,3 +29,7 @@ npm run lint
 
 ## 👤 Author
 serkanurganci
+
+# TODOS
+- [x] Project setup with vue-cli & PostCSS integration.
+- [ ] CSS Infrastructure setup & Preparation of svg and icons.
