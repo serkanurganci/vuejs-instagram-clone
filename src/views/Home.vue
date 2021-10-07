@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Instagram Clone</h1>
+    <h1>Instagram Clone - Commit Deploy Deneme</h1>
   </div>
 </template>
 
