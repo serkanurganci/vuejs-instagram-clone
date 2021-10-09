@@ -7,6 +7,7 @@
 - Vuex 3.x
 - EsLint 6.x
 - PostCSS 8.x
+- Vue Svg Loader 0.16.0
 
 ## 💻 Install
 
@@ -39,4 +40,4 @@ serkanurganci
 # TODOS
 
 - [x] Project setup with vue-cli & PostCSS integration.
-- [ ] CSS Infrastructure setup & Preparation of svg and icons.
+- [x] CSS Infrastructure setup & Preparation of svg and icons.
