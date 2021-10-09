@@ -9,7 +9,7 @@
 </template>
 
 <script>
-import CustomText from '../components/CustomText.vue'
+import CustomText from '../../components/CustomText.vue'
 import IconHome from '@/assets/icons/home.svg'
 export default {
   name: 'Home',
