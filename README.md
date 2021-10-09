@@ -7,7 +7,6 @@
 - Vuex 3.x
 - EsLint 6.x
 - PostCSS 8.x
-- NormalizeCSS 8.x
 
 ## 💻 Install
 
