@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.426d5433bb607e71593ab36666860b8e.js"
+  "/precache-manifest.5373c6fa7988f0cc20ffb615f258c917.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "instagram-clone"});
