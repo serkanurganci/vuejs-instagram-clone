@@ -22,7 +22,7 @@ export default {
 </script>
 
 <style>
-.main {
+main {
   padding-top: 30px;
 }
 </style>

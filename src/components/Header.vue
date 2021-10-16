@@ -47,13 +47,24 @@ export default {
 </script>
 <style>
 .header {
+  z-index: 90;
   border: 1px solid rgb(var(--b6a));
+  background: white;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
 }
 .header-inner {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  display: flex;
   align-items: center;
-  height: 53px;
+  justify-content: center;
+  height: var(--header-height);
+  @media (--t) {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+  }
 }
 .logo {
   font-size: 1.5rem;
@@ -62,23 +73,41 @@ export default {
 .search {
   text-align: center;
 }
-.nav {
-  display: flex;
-  justify-content: end;
-  align-items: center;
-}
-.nav a {
-  margin-left: 20px;
-}
 .search input {
-  background: rgb(var(--b3f));
-  border: 1px solid rgb(var(--b6a));
-  padding: 3px 10px 3px 10px;
-  color: rgba(var(--i1d, 38, 38, 38), 1);
-  outline: 0;
-  font-size: 1.2rem;
+  display: none;
+  @media (--t) {
+    display: block;
+    background: rgb(var(--b3f));
+    border: 1px solid rgb(var(--b6a));
+    padding: 3px 10px 3px 10px;
+    color: rgba(var(--i1d, 38, 38, 38), 1);
+    outline: 0;
+    font-size: 1.2rem;
+  }
 }
 .search input::placeholder {
   text-align: center;
+}
+.nav {
+  z-index: 90;
+  background-color: white;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-top: 1px solid rgb(var(--b6a));
+  height: 44px;
+  @media (--t) {
+    height: auto;
+    position: static;
+    justify-content: end;
+    border-top: 0;
+  }
+}
+.nav a {
+  margin-left: 20px;
 }
 </style>

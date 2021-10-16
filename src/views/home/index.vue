@@ -4,18 +4,71 @@
     <CustomText class="a1">Hello World</CustomText>
     <CustomText class="a2" tag="p" size="sm">Hello World</CustomText>
     <CustomText class="a3" tag="div" size="xsm">Hello World</CustomText>
-    <IconHome />
+    <p>
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est magni minima
+      suscipit perferendis nam soluta, veniam voluptatibus! Eaque ipsum ea, quam
+      adipisci, assumenda dolor quod omnis quibusdam accusamus cumque culpa modi
+      voluptatem sunt ducimus consequuntur aliquam. Rem, commodi inventore!
+      Veniam sapiente accusamus nisi facilis expedita vel provident. Vel, ullam
+      aut!
+    </p>
+    <p>
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est magni minima
+      suscipit perferendis nam soluta, veniam voluptatibus! Eaque ipsum ea, quam
+      adipisci, assumenda dolor quod omnis quibusdam accusamus cumque culpa modi
+      voluptatem sunt ducimus consequuntur aliquam. Rem, commodi inventore!
+      Veniam sapiente accusamus nisi facilis expedita vel provident. Vel, ullam
+      aut!
+    </p>
+    <p>
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est magni minima
+      suscipit perferendis nam soluta, veniam voluptatibus! Eaque ipsum ea, quam
+      adipisci, assumenda dolor quod omnis quibusdam accusamus cumque culpa modi
+      voluptatem sunt ducimus consequuntur aliquam. Rem, commodi inventore!
+      Veniam sapiente accusamus nisi facilis expedita vel provident. Vel, ullam
+      aut!
+    </p>
+    <p>
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est magni minima
+      suscipit perferendis nam soluta, veniam voluptatibus! Eaque ipsum ea, quam
+      adipisci, assumenda dolor quod omnis quibusdam accusamus cumque culpa modi
+      voluptatem sunt ducimus consequuntur aliquam. Rem, commodi inventore!
+      Veniam sapiente accusamus nisi facilis expedita vel provident. Vel, ullam
+      aut!
+    </p>
+    <p>
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est magni minima
+      suscipit perferendis nam soluta, veniam voluptatibus! Eaque ipsum ea, quam
+      adipisci, assumenda dolor quod omnis quibusdam accusamus cumque culpa modi
+      voluptatem sunt ducimus consequuntur aliquam. Rem, commodi inventore!
+      Veniam sapiente accusamus nisi facilis expedita vel provident. Vel, ullam
+      aut!
+    </p>
+    <p>
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est magni minima
+      suscipit perferendis nam soluta, veniam voluptatibus! Eaque ipsum ea, quam
+      adipisci, assumenda dolor quod omnis quibusdam accusamus cumque culpa modi
+      voluptatem sunt ducimus consequuntur aliquam. Rem, commodi inventore!
+      Veniam sapiente accusamus nisi facilis expedita vel provident. Vel, ullam
+      aut!
+    </p>
+    <p>
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est magni minima
+      suscipit perferendis nam soluta, veniam voluptatibus! Eaque ipsum ea, quam
+      adipisci, assumenda dolor quod omnis quibusdam accusamus cumque culpa modi
+      voluptatem sunt ducimus consequuntur aliquam. Rem, commodi inventore!
+      Veniam sapiente accusamus nisi facilis expedita vel provident. Vel, ullam
+      aut!
+    </p>
   </div>
 </template>
 
 <script>
 import CustomText from '../../components/CustomText.vue'
-import IconHome from '@/assets/icons/home.svg'
 export default {
   name: 'Home',
   components: {
-    CustomText,
-    IconHome
+    CustomText
   }
 }
 </script>
