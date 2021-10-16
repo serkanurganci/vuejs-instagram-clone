@@ -1,86 +1,95 @@
 <template>
-  <div>
-    <h1>Instagram Clone - Commit Deploy Deneme</h1>
-    <CustomText class="a1">Hello World</CustomText>
-    <CustomText class="a2" tag="p" size="sm">Hello World</CustomText>
-    <CustomText class="a3" tag="div" size="xsm">Hello World</CustomText>
-    <p>
-      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est magni minima
-      suscipit perferendis nam soluta, veniam voluptatibus! Eaque ipsum ea, quam
-      adipisci, assumenda dolor quod omnis quibusdam accusamus cumque culpa modi
-      voluptatem sunt ducimus consequuntur aliquam. Rem, commodi inventore!
-      Veniam sapiente accusamus nisi facilis expedita vel provident. Vel, ullam
-      aut!
-    </p>
-    <p>
-      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est magni minima
-      suscipit perferendis nam soluta, veniam voluptatibus! Eaque ipsum ea, quam
-      adipisci, assumenda dolor quod omnis quibusdam accusamus cumque culpa modi
-      voluptatem sunt ducimus consequuntur aliquam. Rem, commodi inventore!
-      Veniam sapiente accusamus nisi facilis expedita vel provident. Vel, ullam
-      aut!
-    </p>
-    <p>
-      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est magni minima
-      suscipit perferendis nam soluta, veniam voluptatibus! Eaque ipsum ea, quam
-      adipisci, assumenda dolor quod omnis quibusdam accusamus cumque culpa modi
-      voluptatem sunt ducimus consequuntur aliquam. Rem, commodi inventore!
-      Veniam sapiente accusamus nisi facilis expedita vel provident. Vel, ullam
-      aut!
-    </p>
-    <p>
-      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est magni minima
-      suscipit perferendis nam soluta, veniam voluptatibus! Eaque ipsum ea, quam
-      adipisci, assumenda dolor quod omnis quibusdam accusamus cumque culpa modi
-      voluptatem sunt ducimus consequuntur aliquam. Rem, commodi inventore!
-      Veniam sapiente accusamus nisi facilis expedita vel provident. Vel, ullam
-      aut!
-    </p>
-    <p>
-      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est magni minima
-      suscipit perferendis nam soluta, veniam voluptatibus! Eaque ipsum ea, quam
-      adipisci, assumenda dolor quod omnis quibusdam accusamus cumque culpa modi
-      voluptatem sunt ducimus consequuntur aliquam. Rem, commodi inventore!
-      Veniam sapiente accusamus nisi facilis expedita vel provident. Vel, ullam
-      aut!
-    </p>
-    <p>
-      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est magni minima
-      suscipit perferendis nam soluta, veniam voluptatibus! Eaque ipsum ea, quam
-      adipisci, assumenda dolor quod omnis quibusdam accusamus cumque culpa modi
-      voluptatem sunt ducimus consequuntur aliquam. Rem, commodi inventore!
-      Veniam sapiente accusamus nisi facilis expedita vel provident. Vel, ullam
-      aut!
-    </p>
-    <p>
-      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est magni minima
-      suscipit perferendis nam soluta, veniam voluptatibus! Eaque ipsum ea, quam
-      adipisci, assumenda dolor quod omnis quibusdam accusamus cumque culpa modi
-      voluptatem sunt ducimus consequuntur aliquam. Rem, commodi inventore!
-      Veniam sapiente accusamus nisi facilis expedita vel provident. Vel, ullam
-      aut!
-    </p>
+  <div class="home">
+    <div class="timeline">
+      <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est magni
+        minima suscipit perferendis nam soluta, veniam voluptatibus! Eaque ipsum
+        ea, quam adipisci, assumenda dolor quod omnis quibusdam accusamus cumque
+        culpa modi voluptatem sunt ducimus consequuntur aliquam. Rem, commodi
+        inventore! Veniam sapiente accusamus nisi facilis expedita vel
+        provident. Vel, ullam aut!
+      </p>
+      <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est magni
+        minima suscipit perferendis nam soluta, veniam voluptatibus! Eaque ipsum
+        ea, quam adipisci, assumenda dolor quod omnis quibusdam accusamus cumque
+        culpa modi voluptatem sunt ducimus consequuntur aliquam. Rem, commodi
+        inventore! Veniam sapiente accusamus nisi facilis expedita vel
+        provident. Vel, ullam aut!
+      </p>
+      <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est magni
+        minima suscipit perferendis nam soluta, veniam voluptatibus! Eaque ipsum
+        ea, quam adipisci, assumenda dolor quod omnis quibusdam accusamus cumque
+        culpa modi voluptatem sunt ducimus consequuntur aliquam. Rem, commodi
+        inventore! Veniam sapiente accusamus nisi facilis expedita vel
+        provident. Vel, ullam aut!
+      </p>
+      <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est magni
+        minima suscipit perferendis nam soluta, veniam voluptatibus! Eaque ipsum
+        ea, quam adipisci, assumenda dolor quod omnis quibusdam accusamus cumque
+        culpa modi voluptatem sunt ducimus consequuntur aliquam. Rem, commodi
+        inventore! Veniam sapiente accusamus nisi facilis expedita vel
+        provident. Vel, ullam aut!
+      </p>
+      <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est magni
+        minima suscipit perferendis nam soluta, veniam voluptatibus! Eaque ipsum
+        ea, quam adipisci, assumenda dolor quod omnis quibusdam accusamus cumque
+        culpa modi voluptatem sunt ducimus consequuntur aliquam. Rem, commodi
+        inventore! Veniam sapiente accusamus nisi facilis expedita vel
+        provident. Vel, ullam aut!
+      </p>
+    </div>
+    <div class="sidebar">
+      <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est magni
+        minima suscipit perferendis nam soluta, veniam voluptatibus! Eaque ipsum
+        ea, quam adipisci, assumenda dolor quod omnis quibusdam accusamus cumque
+        culpa modi voluptatem sunt ducimus consequuntur aliquam. Rem, commodi
+        inventore! Veniam sapiente accusamus nisi facilis expedita vel
+        provident. Vel, ullam aut!
+      </p>
+      <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est magni
+        minima suscipit perferendis nam soluta, veniam voluptatibus! Eaque ipsum
+        ea, quam adipisci, assumenda dolor quod omnis quibusdam accusamus cumque
+        culpa modi voluptatem sunt ducimus consequuntur aliquam. Rem, commodi
+        inventore! Veniam sapiente accusamus nisi facilis expedita vel
+        provident. Vel, ullam aut!
+      </p>
+    </div>
   </div>
 </template>
 
 <script>
-import CustomText from '../../components/CustomText.vue'
+// import CustomText from '../../components/CustomText.vue'
 export default {
   name: 'Home',
-  components: {
-    CustomText
-  }
+  components: {}
 }
 </script>
 
 <style scoped>
-.a1 {
-  color: rgb(var(--c37));
+.home {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  @media (--t) {
+    max-width: none;
+    display: grid;
+    grid-template-columns: 1fr 293px;
+    grid-column-gap: 30px;
+  }
 }
-.a2 {
-  color: rgb(var(--f24));
+.timeline {
+  max-width: 615px;
 }
-.a3 {
-  color: rgb(var(--jbb));
+.sidebar {
+  display: none;
+  @media (--t) {
+    display: block;
+  }
 }
 </style>

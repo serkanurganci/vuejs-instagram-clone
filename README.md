@@ -42,7 +42,7 @@ serkanurganci
 - [x] Project setup with vue-cli & PostCSS integration.
 - [x] CSS Infrastructure setup & Preparation of svg and icons.
 - [x] Let's create the pages. Let's create a Master-Page
-- [ ] Let's create a layout for Header design and Homepage
+- [x] Let's create a layout for Header design and Homepage
 - [ ] Vercel.com deploy configuration for project hosting
 - [ ] Post component on homepage
 - [ ] API and infinite-scroll for homepage
