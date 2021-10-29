@@ -18,12 +18,10 @@
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
-    "@vue/cli-plugin-eslint": "~4.5.0",
     "@vue/cli-plugin-pwa": "~4.5.0",
     "@vue/cli-plugin-router": "~4.5.0",
     "@vue/cli-plugin-vuex": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
-    "babel-eslint": "^10.1.0",
     "postcss-custom-media": "^7.0.8",
     "postcss-nested": "^4.2.3",
     "vue-svg-loader": "^0.16.0",
@@ -31,7 +29,6 @@
     "eslint": "^7.25.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier-vue": "^3.0.0",
-    "eslint-plugin-vue": "^7.9.0",
-    "prettier": "^2.2.1"
+    "eslint-plugin-vue": "^7.9.0"
   }
 }
